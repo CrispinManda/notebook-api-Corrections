@@ -1,0 +1,7 @@
+get http://localhost:3600/notes/
+Content-Type: application/json
+
+{
+    "note_title": "riding",
+    "note_body": "ride to Mombasa"
+}
